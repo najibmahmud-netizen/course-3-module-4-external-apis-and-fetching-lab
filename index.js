@@ -1,7 +1,3 @@
-// index.js
-const weatherApi = "https://api.weather.gov/alerts/active?area="
-
-// Your code here!
 const input = document.getElementById("state-input");
 const button = document.getElementById("fetch-alerts");
 const displayDiv = document.getElementById("alerts-display");
